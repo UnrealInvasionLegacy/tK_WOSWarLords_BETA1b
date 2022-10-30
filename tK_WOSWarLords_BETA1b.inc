@@ -1,0 +1,1 @@
+#define __RPG_PACKAGE_NAME MonsterAssaultRPG
